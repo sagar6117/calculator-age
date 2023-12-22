@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    Font-family: Montserrat;
+    ;
+}
+
+body{
+    background-color: #3081D0;
+    background-image: url(bg.jpg);
+    
+}
+#maindiv{
+    background-color: #001B79;
+    width: 600px;
+    height: 400px;
+    border-radius: 25px;
+    border: 4px solid #ED5AB3;
+    margin: 200px 200px 200px 600px;
+}
+
+.button{
+   
+    padding-left: 210px;
+    display: inline;
+}
+
+#subdiv{
+    padding: 20px;
+}
+
+
+h2{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+    font-family: Montserrat;
+}
+#select{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-left: 170px;
+    font-family: Montserrat;
+
+}
+
+#submit, #reset{
+    text-align: center;
+    color: #ffffff;
+    background-color: #ED5AB3;   
+    font-family: Montserrat;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+#birthdate{
+    padding: 10px;
+    font-family: Montserrat;
+}
+p{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+    font-family: Montserrat; 
+}
+
+.icon{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 40px;
+    margin-left: 210px;
+    font-family: Montserrat;
+    font-size: 28px; 
+    display: inline-block;
+    
+}
+i{padding: 10px;}
